@@ -1,0 +1,30 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "A  burger logger with MySQL, Node, Express, Handlebars and a homemade ORM",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon node "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Antidetka/Burger.git"
+  },
+  "keywords": [
+    "test",
+    "node",
+    "npm",
+    "index"
+  ],
+  "author": "Regina Musovirova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Antidetka/Burger/issues"
+  },
+  "homepage": "https://github.com/Antidetka/Burger#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.3",
+    "mysql": "^2.18.1"
+  }
+}
