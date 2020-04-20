@@ -2,11 +2,11 @@
   "name": "burger",
   "version": "1.0.0",
   "description": "A  burger logger with MySQL, Node, Express, Handlebars and a homemade ORM",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
-    "watch": "nodemon server.s"
+    "watch": "nodemon server.js"
   },
   "repository": {
     "type": "git",
