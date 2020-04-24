@@ -7,10 +7,12 @@ body {
     margin-bottom: 45px;
 }
 
-.card-header {
+.card-header, h1 {
     background-color: #00970C;
     color: #fff;
+    text-align: center;
 }
+
 
 .btn {
     margin-bottom: 20px;
