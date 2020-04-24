@@ -20,6 +20,6 @@ var burger = {
             devoured: true
         }, condition, cb);
     }
-};
+}
 
 module.exports = burger;

@@ -1,5 +1,6 @@
 <nav class="navbar bg-dark">
-    <img src="/public/assets/img/logo.png" height="80" class="d-inline-block align-top mx-auto" alt="">
+    <img src="https://cdn2.vectorstock.com/i/1000x1000/46/71/cartoon-cute-burger-character-with-cheese-vector-21304671.jpg" height="80" class="align-top mx-auto">
+    
 </nav>
 <div class="container my-5">
     <div class="row">
@@ -46,6 +47,12 @@
                         <input class="form-control" type="text" placeholder="{{this.id}} . {{this.burger_name}}" readonly>
                         {{/if}}
                         {{/each}}
+                    </div>
+                    <div class="col-md-3">
+                        <form class="devour-form button-size">
+                            <input type="hidden" class="burger_id" type="text" value={{this.id}}>
+                            </input>
+                        </form>
                     </div>
                 </div>
             </div>
