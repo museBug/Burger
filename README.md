@@ -8,7 +8,7 @@ A burger logger with MySQL, Node, Express, Handlebars and a homemade ORM.
 A restaurant app that lets users input the names of burgers they'd like to eat.
 
 
-![](public/image/logo.png)
+![](public/assets/image/logo.png)
         
 ## Table of Contents
             
