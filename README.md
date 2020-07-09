@@ -14,7 +14,7 @@ A restaurant app that lets users input the names of burgers they'd like to eat.
             
 * [Installation](#Installation)
 * [Usage](#Usage) 
-* [Contributing](#Contributing) 
+* [Functionality](#Functionality) 
 * [License](#License) 
 * [Test](#Test)
             
